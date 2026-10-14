@@ -1,175 +1,226 @@
-# Hi, I'm Samir Khan 👋
 
-### Full Stack Developer | MERN Stack | Problem Solving
+<div align="center">
 
-I'm a Computer Science student and Full Stack Developer focused on building
-scalable, responsive, and user-friendly web applications.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,40:312E81,75:6D28D9,100:06B6D4&text=SAMIR%20KHAN&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20STACK&descSize=17&descAlignY=60&animation=fadeIn" />
 
-I work primarily with the MERN stack and enjoy building products that solve
-real-world problems. I'm also strengthening my Data Structures & Algorithms
-and backend development skills for software engineering roles.
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Backend+Development+%26+REST+APIs;Solving+DSA+Problems+in+C%2B%2B;Build.+Learn.+Solve.+Repeat." alt="Typing SVG"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/samirkhan41">
+<img src="https://komarev.com/ghpvc/?username=samirkhan41&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
+</a>
+
+<a href="https://github.com/samirkhan41?tab=followers">
+<img src="https://img.shields.io/github/followers/samirkhan41?style=for-the-badge&color=0891B2&logo=github&label=FOLLOWERS"/>
+</a>
+
+</div>
 
 ---
 
-## About Me
+## 👨‍💻 About Me
 
-- 💻 Full Stack Developer focused on the MERN stack
-- 🌱 Currently improving Data Structures & Algorithms
-- ⚙️ Interested in Backend Development, APIs & System Design
-- 🤝 Open to collaborating on meaningful software projects
-- 🎯 Preparing for technical interviews and software engineering roles
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+
+Hi, I'm **Samir Khan**, a Computer Science and Engineering student and Full Stack Developer passionate about building modern web applications.
+
+- 💻 MERN Stack Developer
+- 🚀 Building real-world full-stack projects
+- ⚙️ Interested in backend engineering and system design
+- 🧠 Practicing Data Structures & Algorithms in C++
+- 🤝 Open to collaboration and software engineering opportunities
+
+<br clear="right"/>
 
 ---
 
-## Tech Stack
+## ⚡ Tech Stack
+
+<div align="center">
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python&theme=dark" />
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
 
-### Backend & Database
+### Backend & Databases
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
 
 ### Tools & Cloud
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel,vscode&theme=dark" />
+
+</div>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### AI Career Preparation Platform
+<table>
+<tr>
+<td width="50%">
 
-An all-in-one platform designed to help students prepare for their careers.
+<h3 align="center">🛍️ TeesX</h3>
 
-**Features:**
+<div align="center">
+<a href="https://teesx.shop">
+<img src="https://img.shields.io/badge/VIEW_LIVE_WEBSITE-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+</div>
 
-- Virtual Interview
-- Resume Analyzer
-- Portfolio Maker
-- Study Materials
+A full-stack clothing e-commerce platform featuring product management, authentication, orders and payment integration.
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • AI
+**Tech Stack**
 
----
+React.js · Node.js · Express.js · MongoDB · Razorpay
 
-### TeesX — E-Commerce Platform
+</td>
+<td width="50%">
 
-A full-stack e-commerce platform for managing products, users, orders,
-authentication, and payments.
+<h3 align="center">🤖 AI Career Preparation</h3>
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • Razorpay
+<div align="center">
+<img src="https://img.shields.io/badge/AI-CAREER_PLATFORM-7C3AED?style=for-the-badge"/>
+</div>
 
----
+An all-in-one career preparation platform concept for students.
 
-### CodeSphere — Coding Club Platform
+- Virtual interview preparation
+- Resume analyzer
+- Portfolio maker
+- Study materials
 
-A full-stack platform developed for a university coding club to manage
-events, activities, and community engagement.
+**Tech Stack**
 
-**Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS
+React.js · Node.js · MongoDB · AI
 
----
+</td>
+</tr>
 
-## Data Structures & Algorithms
+<tr>
+<td width="50%">
 
-I'm actively practicing Data Structures & Algorithms to improve my
-problem-solving and algorithmic thinking.
+<h3 align="center">💻 CodeSphere</h3>
 
-### Areas I'm Practicing
+A full-stack platform for a university coding club, supporting events, activities and community engagement.
 
-- Arrays
-- Strings
-- Linked Lists
-- Binary Search
-- Two Pointers
-- Sliding Window
-- Recursion
-- Stack & Queue
-- Trees & Graphs
-- Dynamic Programming
-- Greedy Algorithms
-- Bit Manipulation
+**Tech Stack**
 
-### DSA Repositories
+React.js · Node.js · Express.js · MongoDB · Tailwind CSS
 
-🔹 [LeetCode Solutions](https://github.com/samirkhan41/leetcode-solutions)
+</td>
+<td width="50%">
 
-🔹 [DSA Patterns in C++](https://github.com/samirkhan41/DSA-Patterns)
+<h3 align="center">🧩 DSA Patterns</h3>
 
----
+A collection of C++ solutions and reusable problem-solving patterns.
 
-## GitHub Stats
+<a href="https://github.com/samirkhan41/DSA-Patterns">
+<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=samirkhan41&show_icons=true&theme=github_dark&hide_border=true&count_private=true" 
-    height="165"
-  />
+Arrays · Strings · Sliding Window · Recursion · DP · Graphs
 
-  <img 
-    src="https://streak-stats.demolab.com/?user=samirkhan41&theme=github-dark-blue&hide_border=true" 
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhan41&layout=compact&theme=github_dark&hide_border=true" 
-    height="165"
-  />
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-## Connect With Me
+## 🧠 Data Structures & Algorithms
 
-<p align="left">
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Problem_Solving-7C3AED?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Consistency-06B6D4?style=for-the-badge"/>
+
+</div>
+
+| Fundamentals | Advanced Patterns |
+|---|---|
+| Arrays & Strings | Sliding Window |
+| Linked Lists | Two Pointers |
+| Binary Search | Backtracking |
+| Stack & Queue | Dynamic Programming |
+| Trees & Graphs | Greedy Algorithms |
+| Sorting & Hashing | Bit Manipulation |
+
+<div align="center">
+
+<a href="https://github.com/samirkhan41/leetcode-solutions">
+<img src="https://img.shields.io/badge/LeetCode_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://github.com/samirkhan41/DSA-Patterns">
+<img src="https://img.shields.io/badge/DSA_Patterns-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samirkhan41&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=samirkhan41&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+
+<br/><br/>
+
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhan41&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+
+<img width="100%" src="https://raw.githubusercontent.com/samirkhan41/samirkhan41/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/samirkhan41">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/samir-khan-649158358/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://instagram.com/sftsamir19">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
 <a href="https://www.youtube.com/@ZiddyRoster">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 <a href="mailto:samirkha4575@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<br/><br/>
 
----
+### 💫 Build. Learn. Solve. Repeat.
 
-<p align="center">
-  <i>Building software, solving problems, and learning continuously.</i>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:020617&height=120&section=footer"/>
+
+</div>
