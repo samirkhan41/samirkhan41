@@ -70,7 +70,7 @@ Hi, I'm **Samir Khan**, a Computer Science and Engineering student and Full Stac
 <h3 align="center">🛍️ TeesX</h3>
 
 <div align="center">
-<a href="https://teesx.shop">
+<a href="https://startup-copy-2-frontend.onrender.com/">
 <img src="https://img.shields.io/badge/VIEW_LIVE_WEBSITE-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 </div>
