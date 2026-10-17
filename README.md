@@ -1,11 +1,13 @@
 # SAMIR KHAN
 **FULL STACK DEVELOPER / MERN STACK**
 
-[ GITHUB PROFILE ](https://github.com/samirkhan41) · [ LINKEDIN ](https://www.linkedin.com/in/samir-khan-649158358/) · [ EMAIL ](mailto:samirkha4575@gmail.com)
+[ GITHUB ](https://github.com/samirkhan41) · [ LINKEDIN ](https://www.linkedin.com/in/samir-khan-649158358/) · [ EMAIL ](mailto:samirkha4575@gmail.com)
+
+<div align="center">
+  <b>BUILDING WEB APPLICATIONS. SOLVING REAL PROBLEMS.</b>
+</div>
 
 ---
-
-> BUILDING WEB APPLICATIONS. SOLVING REAL PROBLEMS.
 
 ## 01 / ABOUT ME
 
@@ -13,9 +15,7 @@ Computer Science & Engineering student focused on full-stack development, backen
 
 - **ROLE:** Full Stack Developer
 - **STACK:** MERN
-- **LANGUAGE:** C++ / JavaScript / TypeScript
 - **FOCUS:** Backend Development · REST APIs · DSA
-- **STATUS:** Open to Collaboration
 
 ---
 
@@ -25,66 +25,43 @@ Computer Science & Engineering student focused on full-stack development, backen
 |:---|:---|
 | LANGUAGES | C, C++, JavaScript, TypeScript, Python |
 | FRONTEND | HTML, CSS, React, Tailwind CSS, Vite |
-| BACKEND | Node.js, Express.js, REST APIs |
+| BACKEND | Node.js, Express.js |
 | DATABASES | MongoDB, MySQL |
-| TOOLS | Git, GitHub, Docker, AWS, Postman, Vercel |
+| TOOLS | Git, GitHub, Docker, AWS, Postman |
 
 ---
 
-## 03 / SELECTED PROJECTS
+## 03 / PROJECTS
 
-### 001 — TEESX
-**E-COMMERCE PLATFORM**
+**001 — TEESX / E-COMMERCE**
 
-Full-stack clothing store featuring product management, authentication, order handling, and payment integration.
+Full-stack clothing store with authentication, product management, orders, and payment integration.
 
 `REACT` `NODE.JS` `EXPRESS` `MONGODB` `RAZORPAY`
 
-[ OPEN LIVE WEBSITE →](https://startup-copy-2-frontend.onrender.com/)
+[ VIEW LIVE WEBSITE →](https://startup-copy-2-frontend.onrender.com/)
 
----
+**002 — AI CAREER PREPARATION**
 
-### 002 — AI CAREER PREPARATION
-**CAREER DEVELOPMENT PLATFORM**
-
-A platform concept for interview preparation, resume analysis, portfolio creation, and study resources.
+Career platform concept for interview preparation, resume analysis, and portfolio creation.
 
 `REACT` `NODE.JS` `MONGODB` `AI`
 
----
+**003 — CODESPHERE**
 
-### 003 — CODESPHERE
-**CODING CLUB WEBSITE**
+Coding club website for events, activities, and community engagement.
 
-Full-stack website for coding club events, activities, and community engagement.
+`REACT` `EXPRESS` `MONGODB` `TAILWIND CSS`
 
-`REACT` `EXPRESS` `NODE.JS` `MONGODB` `TAILWIND CSS`
+**004 — DSA PATTERNS**
 
----
-
-### 004 — DSA PATTERNS
-**C++ / PROBLEM SOLVING**
-
-A collection of solutions and reusable patterns for data structures and algorithms.
-
-`ARRAYS` `RECURSION` `BACKTRACKING` `DYNAMIC PROGRAMMING` `GRAPHS`
+C++ solutions and reusable problem-solving patterns.
 
 [ VIEW REPOSITORY →](https://github.com/samirkhan41/DSA-Patterns)
 
 ---
 
-## 04 / DSA & PROBLEM SOLVING
-
-**CORE TOPICS**
-
-Arrays · Strings · Linked Lists · Binary Search · Stacks · Queues · Trees · Graphs · Recursion · Backtracking · Dynamic Programming · Greedy Algorithms
-
-[ DSA REPOSITORY →](https://github.com/samirkhan41/DSA-Patterns)  
-[ LEETCODE SOLUTIONS →](https://github.com/samirkhan41/leetcode-solutions)
-
----
-
-## 05 / GITHUB ACTIVITY
+## 04 / GITHUB ACTIVITY
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirkhan41&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=111111&icon_color=111111)
 
@@ -92,18 +69,8 @@ Arrays · Strings · Linked Lists · Binary Search · Stacks · Queues · Trees 
 
 ---
 
-## 06 / CONNECT
+## 05 / CONNECT
 
-| PLATFORM | LINK |
-|:---|:---|
-| GITHUB | [samirkhan41](https://github.com/samirkhan41) |
-| LINKEDIN | [Samir Khan](https://www.linkedin.com/in/samir-khan-649158358/) |
-| INSTAGRAM | [@sftsamir19](https://instagram.com/sftsamir19) |
-| YOUTUBE | [ZiddyRoster](https://www.youtube.com/@ZiddyRoster) |
-| EMAIL | [samirkha4575@gmail.com](mailto:samirkha4575@gmail.com) |
-
----
+[ GITHUB ](https://github.com/samirkhan41) · [ LINKEDIN ](https://www.linkedin.com/in/samir-khan-649158358/) · [ INSTAGRAM ](https://instagram.com/sftsamir19) · [ YOUTUBE ](https://www.youtube.com/@ZiddyRoster) · [ EMAIL ](mailto:samirkha4575@gmail.com)
 
 **BUILD. LEARN. SOLVE. REPEAT.**
-
-`END OF README // SAMIR KHAN`
