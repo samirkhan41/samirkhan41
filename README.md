@@ -1,86 +1,109 @@
 # SAMIR KHAN
-### FULL STACK DEVELOPER | MERN STACK
+**FULL STACK DEVELOPER / MERN STACK**
 
-Computer Science & Engineering student focused on building practical web applications, scalable backend systems, and clean user experiences.
-
-[GitHub](https://github.com/samirkhan41) · [LinkedIn](https://www.linkedin.com/in/samir-khan-649158358/) · [Instagram](https://instagram.com/sftsamir19) · [Email](mailto:samirkha4575@gmail.com)
+[ GITHUB PROFILE ](https://github.com/samirkhan41) · [ LINKEDIN ](https://www.linkedin.com/in/samir-khan-649158358/) · [ EMAIL ](mailto:samirkha4575@gmail.com)
 
 ---
 
-## ABOUT
+> BUILDING WEB APPLICATIONS. SOLVING REAL PROBLEMS.
 
-- Full Stack Developer specializing in the MERN stack
-- Building real-world web applications and projects
-- Interested in backend development, REST APIs, and system design
-- Practicing Data Structures & Algorithms using C++
-- Open to collaboration and software engineering opportunities
+## 01 / ABOUT ME
 
-## TECH STACK
+Computer Science & Engineering student focused on full-stack development, backend engineering, and practical software solutions.
 
-**Languages**
+- **ROLE:** Full Stack Developer
+- **STACK:** MERN
+- **LANGUAGE:** C++ / JavaScript / TypeScript
+- **FOCUS:** Backend Development · REST APIs · DSA
+- **STATUS:** Open to Collaboration
 
-C · C++ · JavaScript · TypeScript · Python
+---
 
-**Frontend**
+## 02 / TECH STACK
 
-HTML · CSS · React · Tailwind CSS · Vite
+| CATEGORY | TECHNOLOGIES |
+|:---|:---|
+| LANGUAGES | C, C++, JavaScript, TypeScript, Python |
+| FRONTEND | HTML, CSS, React, Tailwind CSS, Vite |
+| BACKEND | Node.js, Express.js, REST APIs |
+| DATABASES | MongoDB, MySQL |
+| TOOLS | Git, GitHub, Docker, AWS, Postman, Vercel |
 
-**Backend & Databases**
+---
 
-Node.js · Express.js · MongoDB · MySQL
+## 03 / SELECTED PROJECTS
 
-**Tools & Cloud**
+### 001 — TEESX
+**E-COMMERCE PLATFORM**
 
-Git · GitHub · Docker · AWS · Postman · Vercel · VS Code
+Full-stack clothing store featuring product management, authentication, order handling, and payment integration.
 
-## PROJECTS
+`REACT` `NODE.JS` `EXPRESS` `MONGODB` `RAZORPAY`
 
-### 01. TeesX — E-commerce Platform
+[ OPEN LIVE WEBSITE →](https://startup-copy-2-frontend.onrender.com/)
 
-Full-stack clothing e-commerce website with product management, authentication, orders, and payment integration.
+---
 
-**Stack:** React · Node.js · Express.js · MongoDB · Razorpay
+### 002 — AI CAREER PREPARATION
+**CAREER DEVELOPMENT PLATFORM**
 
-[View Live Website](https://startup-copy-2-frontend.onrender.com/)
+A platform concept for interview preparation, resume analysis, portfolio creation, and study resources.
 
-### 02. AI Career Preparation
+`REACT` `NODE.JS` `MONGODB` `AI`
 
-Career preparation platform concept featuring virtual interviews, resume analysis, portfolio creation, and study resources.
+---
 
-**Stack:** React · Node.js · MongoDB · AI
+### 003 — CODESPHERE
+**CODING CLUB WEBSITE**
 
-### 03. CodeSphere — Coding Club Platform
+Full-stack website for coding club events, activities, and community engagement.
 
-Full-stack university coding club website for events, activities, and community engagement.
+`REACT` `EXPRESS` `NODE.JS` `MONGODB` `TAILWIND CSS`
 
-**Stack:** React · Node.js · Express.js · MongoDB · Tailwind CSS
+---
 
-### 04. DSA Patterns
+### 004 — DSA PATTERNS
+**C++ / PROBLEM SOLVING**
 
-C++ solutions and reusable patterns for data structures, algorithms, and problem-solving.
+A collection of solutions and reusable patterns for data structures and algorithms.
 
-[View Repository](https://github.com/samirkhan41/DSA-Patterns)
+`ARRAYS` `RECURSION` `BACKTRACKING` `DYNAMIC PROGRAMMING` `GRAPHS`
 
-## DATA STRUCTURES & ALGORITHMS
+[ VIEW REPOSITORY →](https://github.com/samirkhan41/DSA-Patterns)
+
+---
+
+## 04 / DSA & PROBLEM SOLVING
+
+**CORE TOPICS**
 
 Arrays · Strings · Linked Lists · Binary Search · Stacks · Queues · Trees · Graphs · Recursion · Backtracking · Dynamic Programming · Greedy Algorithms
 
-[DSA Patterns](https://github.com/samirkhan41/DSA-Patterns) · [LeetCode Solutions](https://github.com/samirkhan41/leetcode-solutions)
+[ DSA REPOSITORY →](https://github.com/samirkhan41/DSA-Patterns)  
+[ LEETCODE SOLUTIONS →](https://github.com/samirkhan41/leetcode-solutions)
 
-## GITHUB ANALYTICS
+---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirkhan41&show_icons=true&hide_border=true&theme=default)
+## 05 / GITHUB ACTIVITY
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhan41&layout=compact&hide_border=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirkhan41&show_icons=true&hide_border=true&bg_color=ffffff&title_color=111111&text_color=111111&icon_color=111111)
 
-## CONNECT
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhan41&layout=compact&hide_border=true&bg_color=ffffff&title_color=111111&text_color=111111)
 
-- **GitHub:** [samirkhan41](https://github.com/samirkhan41)
-- **LinkedIn:** [Samir Khan](https://www.linkedin.com/in/samir-khan-649158358/)
-- **Instagram:** [@sftsamir19](https://instagram.com/sftsamir19)
-- **YouTube:** [ZiddyRoster](https://www.youtube.com/@ZiddyRoster)
-- **Email:** [samirkha4575@gmail.com](mailto:samirkha4575@gmail.com)
+---
+
+## 06 / CONNECT
+
+| PLATFORM | LINK |
+|:---|:---|
+| GITHUB | [samirkhan41](https://github.com/samirkhan41) |
+| LINKEDIN | [Samir Khan](https://www.linkedin.com/in/samir-khan-649158358/) |
+| INSTAGRAM | [@sftsamir19](https://instagram.com/sftsamir19) |
+| YOUTUBE | [ZiddyRoster](https://www.youtube.com/@ZiddyRoster) |
+| EMAIL | [samirkha4575@gmail.com](mailto:samirkha4575@gmail.com) |
 
 ---
 
 **BUILD. LEARN. SOLVE. REPEAT.**
+
+`END OF README // SAMIR KHAN`
