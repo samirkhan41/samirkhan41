@@ -1,226 +1,86 @@
+# SAMIR KHAN
+### FULL STACK DEVELOPER | MERN STACK
 
-<div align="center">
+Computer Science & Engineering student focused on building practical web applications, scalable backend systems, and clean user experiences.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:020617,40:312E81,75:6D28D9,100:06B6D4&text=SAMIR%20KHAN&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%7C%20MERN%20STACK&descSize=17&descAlignY=60&animation=fadeIn" />
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;Backend+Development+%26+REST+APIs;Solving+DSA+Problems+in+C%2B%2B;Build.+Learn.+Solve.+Repeat." alt="Typing SVG"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/samirkhan41">
-<img src="https://komarev.com/ghpvc/?username=samirkhan41&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS"/>
-</a>
-
-<a href="https://github.com/samirkhan41?tab=followers">
-<img src="https://img.shields.io/github/followers/samirkhan41?style=for-the-badge&color=0891B2&logo=github&label=FOLLOWERS"/>
-</a>
-
-</div>
+[GitHub](https://github.com/samirkhan41) · [LinkedIn](https://www.linkedin.com/in/samir-khan-649158358/) · [Instagram](https://instagram.com/sftsamir19) · [Email](mailto:samirkha4575@gmail.com)
 
 ---
 
-## 👨‍💻 About Me
+## ABOUT
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Developer coding animation"/>
+- Full Stack Developer specializing in the MERN stack
+- Building real-world web applications and projects
+- Interested in backend development, REST APIs, and system design
+- Practicing Data Structures & Algorithms using C++
+- Open to collaboration and software engineering opportunities
 
-Hi, I'm **Samir Khan**, a Computer Science and Engineering student and Full Stack Developer passionate about building modern web applications.
+## TECH STACK
 
-- 💻 MERN Stack Developer
-- 🚀 Building real-world full-stack projects
-- ⚙️ Interested in backend engineering and system design
-- 🧠 Practicing Data Structures & Algorithms in C++
-- 🤝 Open to collaboration and software engineering opportunities
+**Languages**
 
-<br clear="right"/>
+C · C++ · JavaScript · TypeScript · Python
 
----
+**Frontend**
 
-## ⚡ Tech Stack
+HTML · CSS · React · Tailwind CSS · Vite
 
-<div align="center">
+**Backend & Databases**
 
-### Languages
+Node.js · Express.js · MongoDB · MySQL
 
-<img src="https://skillicons.dev/icons?i=c,cpp,js,ts,python&theme=dark" />
+**Tools & Cloud**
 
-### Frontend
+Git · GitHub · Docker · AWS · Postman · Vercel · VS Code
 
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite&theme=dark" />
+## PROJECTS
 
-### Backend & Databases
+### 01. TeesX — E-commerce Platform
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" />
+Full-stack clothing e-commerce website with product management, authentication, orders, and payment integration.
 
-### Tools & Cloud
+**Stack:** React · Node.js · Express.js · MongoDB · Razorpay
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,postman,vercel,vscode&theme=dark" />
+[View Live Website](https://startup-copy-2-frontend.onrender.com/)
 
-</div>
+### 02. AI Career Preparation
 
----
+Career preparation platform concept featuring virtual interviews, resume analysis, portfolio creation, and study resources.
 
-## 🚀 Featured Projects
+**Stack:** React · Node.js · MongoDB · AI
 
-<table>
-<tr>
-<td width="50%">
+### 03. CodeSphere — Coding Club Platform
 
-<h3 align="center">🛍️ TeesX</h3>
+Full-stack university coding club website for events, activities, and community engagement.
 
-<div align="center">
-<a href="https://startup-copy-2-frontend.onrender.com/">
-<img src="https://img.shields.io/badge/VIEW_LIVE_WEBSITE-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-</div>
+**Stack:** React · Node.js · Express.js · MongoDB · Tailwind CSS
 
-A full-stack clothing e-commerce platform featuring product management, authentication, orders and payment integration.
+### 04. DSA Patterns
 
-**Tech Stack**
+C++ solutions and reusable patterns for data structures, algorithms, and problem-solving.
 
-React.js · Node.js · Express.js · MongoDB · Razorpay
+[View Repository](https://github.com/samirkhan41/DSA-Patterns)
 
-</td>
-<td width="50%">
+## DATA STRUCTURES & ALGORITHMS
 
-<h3 align="center">🤖 AI Career Preparation</h3>
+Arrays · Strings · Linked Lists · Binary Search · Stacks · Queues · Trees · Graphs · Recursion · Backtracking · Dynamic Programming · Greedy Algorithms
 
-<div align="center">
-<img src="https://img.shields.io/badge/AI-CAREER_PLATFORM-7C3AED?style=for-the-badge"/>
-</div>
+[DSA Patterns](https://github.com/samirkhan41/DSA-Patterns) · [LeetCode Solutions](https://github.com/samirkhan41/leetcode-solutions)
 
-An all-in-one career preparation platform concept for students.
+## GITHUB ANALYTICS
 
-- Virtual interview preparation
-- Resume analyzer
-- Portfolio maker
-- Study materials
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samirkhan41&show_icons=true&hide_border=true&theme=default)
 
-**Tech Stack**
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhan41&layout=compact&hide_border=true&theme=default)
 
-React.js · Node.js · MongoDB · AI
+## CONNECT
 
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-<h3 align="center">💻 CodeSphere</h3>
-
-A full-stack platform for a university coding club, supporting events, activities and community engagement.
-
-**Tech Stack**
-
-React.js · Node.js · Express.js · MongoDB · Tailwind CSS
-
-</td>
-<td width="50%">
-
-<h3 align="center">🧩 DSA Patterns</h3>
-
-A collection of C++ solutions and reusable problem-solving patterns.
-
-<a href="https://github.com/samirkhan41/DSA-Patterns">
-<img src="https://img.shields.io/badge/EXPLORE_REPOSITORY-181717?style=for-the-badge&logo=github"/>
-</a>
-
-Arrays · Strings · Sliding Window · Recursion · DP · Graphs
-
-</td>
-</tr>
-</table>
+- **GitHub:** [samirkhan41](https://github.com/samirkhan41)
+- **LinkedIn:** [Samir Khan](https://www.linkedin.com/in/samir-khan-649158358/)
+- **Instagram:** [@sftsamir19](https://instagram.com/sftsamir19)
+- **YouTube:** [ZiddyRoster](https://www.youtube.com/@ZiddyRoster)
+- **Email:** [samirkha4575@gmail.com](mailto:samirkha4575@gmail.com)
 
 ---
 
-## 🧠 Data Structures & Algorithms
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Problem_Solving-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Consistency-06B6D4?style=for-the-badge"/>
-
-</div>
-
-| Fundamentals | Advanced Patterns |
-|---|---|
-| Arrays & Strings | Sliding Window |
-| Linked Lists | Two Pointers |
-| Binary Search | Backtracking |
-| Stack & Queue | Dynamic Programming |
-| Trees & Graphs | Greedy Algorithms |
-| Sorting & Hashing | Bit Manipulation |
-
-<div align="center">
-
-<a href="https://github.com/samirkhan41/leetcode-solutions">
-<img src="https://img.shields.io/badge/LeetCode_Solutions-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/samirkhan41/DSA-Patterns">
-<img src="https://img.shields.io/badge/DSA_Patterns-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=samirkhan41&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=samirkhan41&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-
-<br/><br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samirkhan41&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake Animation
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/samirkhan41/samirkhan41/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/samirkhan41">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/samir-khan-649158358/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/sftsamir19">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.youtube.com/@ZiddyRoster">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-
-<a href="mailto:samirkha4575@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### 💫 Build. Learn. Solve. Repeat.
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:6D28D9,100:020617&height=120&section=footer"/>
-
-</div>
+**BUILD. LEARN. SOLVE. REPEAT.**
