@@ -1,14 +1,8 @@
 # SAMIR KHAN
 
-`FULL STACK DEVELOPER` · `MERN STACK`
+**FULL STACK DEVELOPER** · `MERN STACK`
 
-┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
+Over time, I've developed skills in frontend, backend, and full-stack development, focusing on building web applications that are simple, efficient, and scalable. I believe in keeping things practical, writing clean code, and building solutions that are easy to maintain and deploy.
 
-Computer Science & Engineering student passionate about building modern web applications, developing backend systems, and solving real-world problems through code.
 
-**CURRENTLY FOCUSED ON**
-
-Full Stack Development · Backend Engineering · Data Structures & Algorithms
-
-┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄┄
 
