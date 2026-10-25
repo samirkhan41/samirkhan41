@@ -8,4 +8,4 @@ Over time, I've developed skills in frontend, backend, and full-stack developmen
 
 ### 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=samirkhan41&theme=dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=samirkhan41&theme=dark&hide_border=true&card_width=1000)
